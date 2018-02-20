@@ -1,0 +1,20 @@
+{
+	"batters":
+				[
+					{ "type": "Regular","cost" : "1.00" },
+					{ "type": "Chocolate","cost" : "2.00"},
+					{ "type": "Blueberry","cost" : "3.00"},
+					{ "type": "Devil's Food","cost" : "2.50"}
+				]
+		,
+	"topping":
+		[
+			{ "type": "None","cost" : "1.00"},
+			{ "type": "Glazed","cost" : "1.50"},
+			{ "type": "Sugar","cost" : "1.10"},
+			{ "type": "Powdered Sugar","cost" : "1.11"},
+			{ "type": "Chocolate with Sprinkles","cost" : "2.20"},
+			{ "type": "Chocolate","cost" : "2.00"},
+			{ "type": "Maple","cost" : "2.00"}
+		]
+}
